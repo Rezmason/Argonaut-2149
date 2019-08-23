@@ -1,3 +1,7 @@
+**FORK NOTE:** This is a project to port Argonaut 2149 to TypeScript.
+
+---
+
 **Important**: Argonaut 2149 is open-source software but its **license disallows commercial use**. See License.txt.
 
 ![Title Screen](screenshots/argonaut1.jpg)
